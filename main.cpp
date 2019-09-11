@@ -4,6 +4,8 @@
  * and open the template in the editor.
  */
 
+//Esteban Chinchilla Brenes
+
 /* 
  * File:   main.cpp
  * Author: rosaa
